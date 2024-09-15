@@ -34,6 +34,8 @@ The video editing presets functionality should be able to support 3 kinds of vid
 
 Video editing preset functionality includes (enhancing video quality, applying color correction based on user preferences, enhancing audio quality, applying some filters, and finally rendering the video based on user preferences.
 
+Link to Code & UML Class Diagram: [TemplateMethodTask_DP](https://github.com/AhmedOmani/Design_Patterns/tree/main/TemplateMethodTask_DP)
+---
 ---
 
 ### MementoTask_DP
