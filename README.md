@@ -27,6 +27,7 @@ Link to Code & UML Class Diagram: [StrategyDP_Task](https://github.com/AhmedOman
 
 ### TemplateMethodTask_DP
 
+**Description:**  
 You're developing video editing presets with functionality that people can leverage, but you need to support their availability so they can extend the functionality and choose whatever rendering option they want.
 
 The video editing presets functionality should be able to support 3 kinds of video rendering quality: FHD, HD, and SD.
@@ -37,6 +38,7 @@ Video editing preset functionality includes (enhancing video quality, applying c
 
 ### MementoTask_DP
 
+**Description:**  
 You're developing a drawing diagram canvas application that should be used for drawing system designs. You should provide the functionality of undo and redo during drawing on the canvas.
 
 The undo should be able to restore the previous state, and the redo should be able to do the reverse.
