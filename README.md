@@ -33,5 +33,15 @@ The video editing presets functionality should be able to support 3 kinds of vid
 
 Video editing preset functionality includes (enhancing video quality, applying color correction based on user preferences, enhancing audio quality, applying some filters, and finally rendering the video based on user preferences.
 
-Link to Code & UML Class Diagram: [TemplateMethodTask_DP](https://github.com/AhmedOmani/Design_Patterns/tree/main/TemplateMethodTask_DP)
+---
+
+### MementoTask_DP
+
+You're developing a drawing diagram canvas application that should be used for drawing system designs. You should provide the functionality of undo and redo during drawing on the canvas.
+
+The undo should be able to restore the previous state, and the redo should be able to do the reverse.
+
+The canvas should have the following attributes regarding diagrams: content, color, and border.
+
+Link to Code & UML Class Diagram: [MementoTask_DP](https://github.com/AhmedOmani/Design_Patterns/tree/main/MementoTask_DP)
 ---
