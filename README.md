@@ -7,6 +7,7 @@ This repository contains a series of tasks that demonstrate the implementation o
 - [TemplateMethodTask_DP](https://github.com/AhmedOmani/Design_Patterns/tree/main/TemplateMethodTask_DP)
 - [MementoTask_DP](https://github.com/AhmedOmani/Design_Patterns/tree/main/MementoTask_DP)
 - [VisitorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/VisitorDP_Task)
+- [IteratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/IteratorDP_Task)
 
 ---
 
@@ -63,6 +64,19 @@ Consider adding those three operations counting words, extracting text, and form
 We have three document types (text files, spread sheets, and presentation files) that should support the new functionalities
 
 Link to Code & UML Class Diagram: [VisitorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/VisitorDP_Task)
+--
+
+---
+
+### IteratorDP_Task 
+
+**Description:** 
+
+You're developing a social media application where you need to support the functionality of iterating through people's profiles, e.g., friends, family, and mutual friends.
+
+This functionality needs to be re-used within the company team so they can iterate through different profile iterators to help them get more insights and dashboards across people's profiles.
+
+Link to Code & UML Class Diagram: [IteratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/IteratorDP_Task)
 --
 
 ---
