@@ -8,6 +8,8 @@ This repository contains a series of tasks that demonstrate the implementation o
 - [MementoTask_DP](https://github.com/AhmedOmani/Design_Patterns/tree/main/MementoTask_DP)
 - [VisitorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/VisitorDP_Task)
 - [IteratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/IteratorDP_Task)
+- [ChainResponsibilityDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ChainResponsibilityDP_Task)
+  
 
 ---
 
@@ -80,3 +82,21 @@ Link to Code & UML Class Diagram: [IteratorDP_Task](https://github.com/AhmedOman
 --
 
 ---
+
+### ChainResponsibilityDP_Task 
+
+**Description:** 
+
+You are developing a big data batch job that takes some sort of data as input, and there is a pipeline of operations that need to occur on this data.
+
+The data needs to pass the whole pipeline successfully in order to proceed with handling the data.
+
+The pipeline consists of validation checks on data, formatting checks, data size checks, and finally personal information checks.
+
+The batch job needs to fulfill the whole pipeline of checks and pass them successfully before proceeding with processing the data.
+
+Link to Code & UML Class Diagram: [ChainResponsibilityDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ChainResponsibilityDP_Task)
+--
+
+---
+
