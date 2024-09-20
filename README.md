@@ -9,6 +9,7 @@ This repository contains a series of tasks that demonstrate the implementation o
 - [VisitorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/VisitorDP_Task)
 - [IteratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/IteratorDP_Task)
 - [ChainResponsibilityDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ChainResponsibilityDP_Task)
+- [StateDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/StateDP_Task)
   
 
 ---
@@ -96,6 +97,28 @@ The pipeline consists of validation checks on data, formatting checks, data size
 The batch job needs to fulfill the whole pipeline of checks and pass them successfully before proceeding with processing the data.
 
 Link to Code & UML Class Diagram: [ChainResponsibilityDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ChainResponsibilityDP_Task)
+--
+
+---
+
+### StateDP_Task 
+
+**Description:**
+
+You are developing a project management application in which you can create various tasks, and each task would have a different state. By default, tasks would be on the backlog until they were picked up by users and marked as ToDo.
+
+Tasks would have different states, e.g., backlog, to-do, in-progress, blocked, in-review, done.
+
+Backlog means a task is not picked by anybody.
+To-Do means: The task has already been picked by someone.
+In-progress means a task is already being progressed by someone.
+Blocked means: The task is already paused due to some reasons.
+In-review means the task is already being reviewed by someone else.
+Done means the Task is already finished successfully
+
+Considering once a task is marked as done, you cannot change its state further. Also, no tasks are marked as done unless they are reviewed.
+
+Link to Code & UML Class Diagram: [StateDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/StateDP_Task)
 --
 
 ---
