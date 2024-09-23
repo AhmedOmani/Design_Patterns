@@ -10,6 +10,7 @@ This repository contains a series of tasks that demonstrate the implementation o
 - [IteratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/IteratorDP_Task)
 - [ChainResponsibilityDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ChainResponsibilityDP_Task)
 - [StateDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/StateDP_Task)
+- [CommandDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/CommandDP_Task)
   
 
 ---
@@ -127,4 +128,24 @@ Link to Code & UML Class Diagram: [StateDP_Task](https://github.com/AhmedOmani/D
 --
 
 ---
+
+### CommandDP_Task 
+
+**Description:** 
+
+You are developing a text editor which has the following functionality: Copy, cut, and delete. Each of these functions needs to be supported in many ways: e.g., Edit Menu, Keyboard Shortcuts).
+
+Those commands also need to be saved in history so we can easily undo and redo them.
+
+Considering having the following keyboard shortcuts for each one: (copy -> ctrl + c) , (cut -> ctrl + x) and (delete -> DEL)
+
+**Note:**
+For the point of undo & redo I implement MementoDP for this subtask m but it i didnt consider it in the UML diagram.
+
+Link to Code & UML Class Diagram: [CommandDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/CommandDP_Task)
+--
+
+---
+
+
 
