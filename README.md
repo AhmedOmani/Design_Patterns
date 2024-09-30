@@ -2,7 +2,7 @@
 
 This repository contains a series of tasks that demonstrate the implementation of various design patterns. Each task is focused on solving real-world problems using a different design pattern, providing flexibility and scalability in the solutions.
 
-## Table of Contents
+### Table of Contents
 
 ## Behavioral Design Patterns :
   - [StrategyDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/StrategyDP_Task)
@@ -14,6 +14,9 @@ This repository contains a series of tasks that demonstrate the implementation o
   - [StateDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/StateDP_Task)
   - [CommandDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/CommandDP_Task)
   - [MediatorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/MediatorDP_Task)
+
+## Structural Design Patterns :
+  - [AdapterDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/AdapterDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -159,4 +162,15 @@ We would have two types of airplanes: commercial and travel airplanes, which sup
 Link to Code & UML Class Diagram: [MediatorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/MediatorDP_Task)
 --
 
+---
 
+### AdapterDP_Task 
+
+**Description:** 
+
+Let's consider a scenario where we have an integration with a third-party service, ReportService, to receive a report that is in CSV format, and we are using it in our client, but we aim to now add a dashboard service that needs data in JSON.
+
+So the main client is your client, and you need to talk to the reporting service in order to get the report and pass it to the dashboard service, but the reporting service gives you uncompatible data with the dashboard.
+
+Link to Code & UML Class Diagram: [AdapterDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/AdapterDP_Task)
+--
