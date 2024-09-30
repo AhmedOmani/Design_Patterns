@@ -17,6 +17,7 @@ This repository contains a series of tasks that demonstrate the implementation o
 
 ## Structural Design Patterns :
   - [AdapterDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/AdapterDP_Task)
+  - [BridgeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BridgeDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -174,3 +175,17 @@ So the main client is your client, and you need to talk to the reporting service
 
 Link to Code & UML Class Diagram: [AdapterDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/AdapterDP_Task)
 --
+
+---
+
+### BridgeDP_Task 
+
+**Description:** 
+
+Imagine you are developing a flight booking platform that aggregates flights from various providers, e.g., Turkish Airlines and EgyptAir, and each provider may have its own loyalty program. Additionally, users might have different membership statuses within these loyalty programs.
+
+We have two kinds of loyalty programs (Premium and Basic), which give different discounts on booking flights.
+
+Link to Code & UML Class Diagram: [BridgeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BridgeDP_Task)
+--
+
