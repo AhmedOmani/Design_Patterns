@@ -18,6 +18,7 @@ This repository contains a series of tasks that demonstrate the implementation o
 ## Structural Design Patterns :
   - [AdapterDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/AdapterDP_Task)
   - [BridgeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BridgeDP_Task)
+  - [CompositeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/CompositeDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -189,3 +190,15 @@ We have two kinds of loyalty programs (Premium and Basic), which give different 
 Link to Code & UML Class Diagram: [BridgeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BridgeDP_Task)
 --
 
+---
+
+### CompositeDP_Task 
+
+**Description:** 
+
+In an e-commerce application, customers can add individual items to their shopping carts. However, there are also special offers or bundles, where multiple items are combined into a discounted package. How can we represent both individual items and bundled offers in a way that allows seamless interaction with the shopping cart?
+
+So we have products and bundles, and each bundle might have several products.
+
+Link to Code & UML Class Diagram: [CompositeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/CompositeDP_Task)
+--
