@@ -19,6 +19,7 @@ This repository contains a series of tasks that demonstrate the implementation o
   - [AdapterDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/AdapterDP_Task)
   - [BridgeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BridgeDP_Task)
   - [CompositeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/CompositeDP_Task)
+  - [DecoratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/DecoratorDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -202,3 +203,15 @@ So we have products and bundles, and each bundle might have several products.
 
 Link to Code & UML Class Diagram: [CompositeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/CompositeDP_Task)
 --
+
+---
+
+### DecoratorDP_Task 
+
+**Description:** 
+
+You're developing a text processing system that allows users to format text with various styles like bold, italic, and underline. Users should be able to apply multiple (composite) styles to the same text.
+
+Link to Code & UML Class Diagram: [DecoratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/DecoratorDP_Task)
+--
+
