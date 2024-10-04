@@ -20,6 +20,7 @@ This repository contains a series of tasks that demonstrate the implementation o
   - [BridgeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BridgeDP_Task)
   - [CompositeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/CompositeDP_Task)
   - [DecoratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/DecoratorDP_Task)
+  - [FacadeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FacadeDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -213,5 +214,18 @@ Link to Code & UML Class Diagram: [CompositeDP_Task](https://github.com/AhmedOma
 You're developing a text processing system that allows users to format text with various styles like bold, italic, and underline. Users should be able to apply multiple (composite) styles to the same text.
 
 Link to Code & UML Class Diagram: [DecoratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/DecoratorDP_Task)
+--
+
+---
+
+### FacadeDP_Task 
+
+**Description:** 
+
+You're developing an e-commerce platform where customers can place orders for various products. 
+
+The order processing system involves multiple subsystems such as inventory management, payment processing, and shipping logistics. Managing interactions with these subsystems directly from the client code can become complex and error-prone.
+
+Link to Code & UML Class Diagram: [FacadeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FacadeDP_Task)
 --
 
