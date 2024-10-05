@@ -21,6 +21,7 @@ This repository contains a series of tasks that demonstrate the implementation o
   - [CompositeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/CompositeDP_Task)
   - [DecoratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/DecoratorDP_Task)
   - [FacadeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FacadeDP_Task)
+  - [ProxyDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ProxyDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -229,3 +230,14 @@ The order processing system involves multiple subsystems such as inventory manag
 Link to Code & UML Class Diagram: [FacadeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FacadeDP_Task)
 --
 
+---
+
+### ProxyDP_Task 
+
+**Description:**
+
+Certainly! Let's consider a scenario where we have a media streaming service that provides access to videos. 
+The problem we'll address is controlling access to sensitive or restricted videos based on user permissions.
+
+Link to Code & UML Class Diagram: [ProxyDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ProxyDP_Task)
+--
