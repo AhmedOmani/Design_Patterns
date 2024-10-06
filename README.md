@@ -22,6 +22,7 @@ This repository contains a series of tasks that demonstrate the implementation o
   - [DecoratorDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/DecoratorDP_Task)
   - [FacadeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FacadeDP_Task)
   - [ProxyDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ProxyDP_Task)
+  - [FlyweightDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FlyweightDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -240,4 +241,19 @@ Certainly! Let's consider a scenario where we have a media streaming service tha
 The problem we'll address is controlling access to sensitive or restricted videos based on user permissions.
 
 Link to Code & UML Class Diagram: [ProxyDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ProxyDP_Task)
+--
+
+---
+
+### FlyweightDP_Task 
+
+**Description:**
+
+In a word processor application, users can create documents containing various text elements such as characters, words, and paragraphs. 
+
+Each text element may have attributes like font, size, color, and style. With large documents or documents containing repetitive text, memory consumption can become a concern if each text element is represented as a separate object.
+
+A word processor should be able to render text elements that it gets as input with its style from font and color!
+
+Link to Code & UML Class Diagram: [FlyweightDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FlyweightDP_Task)
 --
