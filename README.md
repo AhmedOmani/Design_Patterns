@@ -23,6 +23,9 @@ This repository contains a series of tasks that demonstrate the implementation o
   - [FacadeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FacadeDP_Task)
   - [ProxyDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/ProxyDP_Task)
   - [FlyweightDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FlyweightDP_Task)
+
+## Creational Design Patterns : 
+  - [BuilderDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BuilderDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -256,4 +259,17 @@ Each text element may have attributes like font, size, color, and style. With la
 A word processor should be able to render text elements that it gets as input with its style from font and color!
 
 Link to Code & UML Class Diagram: [FlyweightDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FlyweightDP_Task)
+--
+
+---
+
+### BuilderDP_Task 
+
+**Description:**
+
+Certainly! Let's consider a scenario where you're working on a configuration manager for a game engine. The game can have various settings, including graphics quality, sound options, control preferences, and more.
+
+You need to create a configuration manager that allows users to set and customize various game settings.
+
+Link to Code & UML Class Diagram: [BuilderDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BuilderDP_Task)
 --
