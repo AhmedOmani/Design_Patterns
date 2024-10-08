@@ -26,6 +26,7 @@ This repository contains a series of tasks that demonstrate the implementation o
 
 ## Creational Design Patterns : 
   - [BuilderDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BuilderDP_Task)
+  - [SingletoDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/SingletonDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -272,4 +273,17 @@ Certainly! Let's consider a scenario where you're working on a configuration man
 You need to create a configuration manager that allows users to set and customize various game settings.
 
 Link to Code & UML Class Diagram: [BuilderDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BuilderDP_Task)
+--
+
+---
+
+### SingletonDP_Task 
+
+**Description:**
+
+Certainly! Let's consider a scenario where you want to implement a session manager for a web application using the Singleton design pattern. The session manager should provide a single point of access to user sessions, and it should be initialized with default options.
+
+You want to create a session manager with default settings, and you want to ensure that there is only one instance of the session manager throughout the web application.
+
+Link to Code & UML Class Diagram: [SingletoDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/SingletonDP_Task)
 --
