@@ -27,6 +27,7 @@ This repository contains a series of tasks that demonstrate the implementation o
 ## Creational Design Patterns : 
   - [BuilderDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BuilderDP_Task)
   - [SingletoDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/SingletonDP_Task)
+  - [PrototypeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/PrototypeDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -287,3 +288,19 @@ You want to create a session manager with default settings, and you want to ensu
 
 Link to Code & UML Class Diagram: [SingletoDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/SingletonDP_Task)
 --
+
+---
+
+### PrototypeDP_Task 
+
+**Description:**
+
+You are developing a GUI button component that is asked to be re-used within the application because it wastes time re-creating it every time and just to change little fields.
+
+The button has several fields, like color, content, xPosition, and yPosition.
+
+Link to Code & UML Class Diagram: [PrototypeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/PrototypeDP_Task )
+--
+
+
+
