@@ -28,6 +28,7 @@ This repository contains a series of tasks that demonstrate the implementation o
   - [BuilderDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/BuilderDP_Task)
   - [SingletoDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/SingletonDP_Task)
   - [PrototypeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/PrototypeDP_Task)
+  - [FactoryDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FactoryDP_Task)
 ---
 
 ### StrategyDP_Task
@@ -302,5 +303,15 @@ The button has several fields, like color, content, xPosition, and yPosition.
 Link to Code & UML Class Diagram: [PrototypeDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/PrototypeDP_Task )
 --
 
+---
+
+### FactoryDP_Task 
+
+**Description:**
+
+You are developing a web application that supports user authentication through various methods, such as username/password, social media logins, and two-factor authentication. Initially, we need to have a centralized place for creating those authentications, considering that social media logins might have in the future various kinds of social media and two-factor authentication as well.
+
+Link to Code & UML Class Diagram: [FactoryDP_Task](https://github.com/AhmedOmani/Design_Patterns/tree/main/FactoryDP_Task )
+--
 
 
